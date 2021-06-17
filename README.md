@@ -3,7 +3,11 @@ HarshitaPadala/HarshitaPadala is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src = “https://github.com/HarshitaPadala/HarshitaPadala/blob/main/pics/Yellow%20Monochrome%20Photo%20LinkedIn%20Banner.png” width = 1000  height = 300><br><br><br>
+
+<img src=“https://user-images.githubusercontent.com/72027195/122410725-ccf19200-cfa1-11eb-96e4-ab42cda9b5a1.png”   width = 1000  height = 300>
+
+
+<br><br><br>
 <h1 align="center">Hi 👋, I'm Harshita Padala</h1>
 <h3 align="center">A CSE student who loves exploring new fields.</h3>
 
