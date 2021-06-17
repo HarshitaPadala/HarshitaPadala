@@ -2,8 +2,8 @@
 HarshitaPadala/HarshitaPadala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# harshita017
-[![Masterhead]("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/linkedin-banner-design-template-ebdb4bf8ee34463d4c305a9d0f0e80e2_screen.jpg?ts=1592163200")]
+
+![Masterhead]("https://github.com/HarshitaPadala/HarshitaPadala/blob/main/pics/Yellow%20Monochrome%20Photo%20LinkedIn%20Banner.png")
 <h1 align="center">Hi 👋, I'm Harshita Padala</h1>
 <h3 align="center">A CSE student who loves exploring new fields.</h3>
 
