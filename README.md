@@ -3,7 +3,7 @@ HarshitaPadala/HarshitaPadala is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="http://www.scribendi.com/images/cms/thumbnails/How-to-Format-a-Cover-Letter_720x370.jpg" alt="Lamp" width="1000" height="320">
+<img src="https://github.com/HarshitaPadala/HarshitaPadala/blob/main/pics/Yellow%20Monochrome%20Photo%20LinkedIn%20Banner.png?raw=true" alt="Lamp" width="1000" height="320">
 <br><br>
 <h1 align="center">Hi 👋, I'm Harshita Padala</h1>
 <h3 align="center">A CSE student who loves exploring new fields.</h3>
